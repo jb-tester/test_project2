@@ -9,4 +9,5 @@ package qwe.rty;
  */
 public class AAA {
     int i1;
+    int i2;
 }
