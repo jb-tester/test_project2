@@ -8,4 +8,5 @@ package qwe.rty;
  * To change this template use File | Settings | File Templates.
  */
 public class AAA {
+    int i1;
 }
