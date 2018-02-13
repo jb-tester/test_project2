@@ -9,4 +9,9 @@ package aaa.bbb;
  */
 public class BBB {
     // ip
+
+    public void foo(){
+
+
+    }
 }
