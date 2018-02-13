@@ -1,6 +1,6 @@
 package qwe.rty;
 
-// ip
+// irina
 public class AAA {
     int i1;
     int i2;
